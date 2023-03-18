@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/88385813/226140638-52bcc323-fcf1-4b9a-8f0a-f807b863090d.png"  width="300" height="300">
 
 
-Programm to scan a Folder recursively and converting the file-structure to an Excel-spreadsheet. 
+Programm to scan a Folder recursively and converting the file-structure to an Excel-spreadsheet: 
 ![Screenshot 2023-03-18 223003](https://user-images.githubusercontent.com/88385813/226141159-0cb3f28a-3836-4c37-acfc-64d19ade2f89.png)
 
 

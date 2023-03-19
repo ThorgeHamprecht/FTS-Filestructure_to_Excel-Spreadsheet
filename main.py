@@ -112,7 +112,7 @@ window = tk.Tk()
 # window info
 window.title("FTS - Files To Spreadsheet")
 window.configure(bg=bg_color)
-# window.iconbitmap("FTS - Logo.ico")
+window.iconbitmap("FTS - Logo.ico")
 window_width = 600
 window_height = 400
 window.resizable(False, False)

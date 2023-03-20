@@ -1,9 +1,9 @@
 # FTS - Filestructure to Excel-Spreadsheet
 
 
-![FTS - Logo](https://user-images.githubusercontent.com/88385813/226444534-5444cc28-e20f-4361-a80f-becc7be458b8.png)
-<img src="https://user-images.githubusercontent.com/88385813/226444534-5444cc28-e20f-4361-a80f-becc7be458b8.png" style="width: 55vw; min-width: 330px;" />
-
+<img src="https://user-images.githubusercontent.com/88385813/226444534-5444cc28-e20f-4361-a80f-becc7be458b8.png"
+     width="300" 
+     height="300" />
 
 Programm to scan a Folder recursively and converting the file-structure to an Excel-spreadsheet: 
 <br>

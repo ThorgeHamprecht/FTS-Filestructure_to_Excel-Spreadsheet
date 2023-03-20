@@ -1,5 +1,5 @@
 # FTS - Filestructure to Excel-Spreadsheet
-<img src="https://user-images.githubusercontent.com/88385813/226140638-52bcc323-fcf1-4b9a-8f0a-f807b863090d.png"  width="300" height="300">
+
 
 ![FTS - Logo](https://user-images.githubusercontent.com/88385813/226444534-5444cc28-e20f-4361-a80f-becc7be458b8.png)
 

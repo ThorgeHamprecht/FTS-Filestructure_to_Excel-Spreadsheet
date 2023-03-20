@@ -6,6 +6,7 @@
 
 
 Programm to scan a Folder recursively and converting the file-structure to an Excel-spreadsheet: 
+<br>
 ![Screenshot 2023-03-18 223003](https://user-images.githubusercontent.com/88385813/226141159-0cb3f28a-3836-4c37-acfc-64d19ade2f89.png)
 
 
